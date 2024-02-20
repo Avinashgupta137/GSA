@@ -1,0 +1,6 @@
+framework module Pods_GSA {
+  umbrella header "Pods-GSA-umbrella.h"
+
+  export *
+  module * { export * }
+}
